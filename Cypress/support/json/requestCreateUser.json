@@ -1,0 +1,16 @@
+{
+    "accountType": "USER",
+    "address": "string",
+    "allowOffersPromotion": true,
+    "aobUser": true,
+    "cityName": "string",
+    "country": "AUSTRALIA_AU",
+    "email": "fa.hitman01.eh@gmail.com",
+    "firstName": "string",
+    "lastName": "string",
+    "loginName": "iamfauardoneill",
+    "password": "Eduhitman1**",
+    "phoneNumber": "string",
+    "stateProvince": "string",
+    "zipcode": "string"
+}
